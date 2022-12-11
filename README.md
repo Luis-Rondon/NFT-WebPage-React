@@ -1,3 +1,3 @@
 ###### RESUMEN DEL PROYECTO
-<img src="https://ibb.co/sst95Lq" alt="SW" border="0"  width="400" />
-https://ibb.co/sst95Lq
+
+![oddbalss](https://user-images.githubusercontent.com/86503171/206884263-21cea403-c580-48c3-8304-752bcf558cc7.png)
