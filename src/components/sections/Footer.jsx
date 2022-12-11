@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import { Logo } from "../Logo";
-import LinkedIn from "../Icons/LinkedIn";
 import {Banner} from "../Banner"
 export function Footer() {
   const scrollTo = (id) => {
@@ -17,11 +16,6 @@ export function Footer() {
       <Container>
         <Left>
           <Logo />
-          <IconList>
-            <a href="https://www.linkedin.com/in/luis-rondon/" target="_blank">
-              <LinkedIn />
-            </a>
-          </IconList>
         </Left>
         <MenuItems>
           <Item onClick={() => scrollTo("home")}>Home</Item>
