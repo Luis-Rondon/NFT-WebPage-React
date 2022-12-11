@@ -1,9 +1,6 @@
 import styled from "styled-components";
 import { Logo } from "../Logo";
-import Facebook from "../Icons/Facebook";
 import LinkedIn from "../Icons/LinkedIn";
-import Twitter from "../Icons/Twitter";
-import Instagram from "../Icons/Instagram";
 import {Banner} from "../Banner"
 export function Footer() {
   const scrollTo = (id) => {
@@ -21,15 +18,6 @@ export function Footer() {
         <Left>
           <Logo />
           <IconList>
-            <a href="#" target="_blank">
-              <Facebook />
-            </a>
-            <a href="#" target="_blank">
-              <Instagram />
-            </a>
-            <a href="#" target="_blank">
-              <Twitter />
-            </a>
             <a href="https://www.linkedin.com/in/luis-rondon/" target="_blank">
               <LinkedIn />
             </a>
